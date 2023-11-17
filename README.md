@@ -9,7 +9,7 @@ Here is the document converted to Markdown:
 
 ## 3. Now that you are in the GitHub make sure you are signed in.
 
-(Now if you want to build the server please skip to step 4. If you just want to run it stay here)
+## (Now if you want to build the server please skip to step 4. If you just want to run it stay here)
 
 To run the server while in the GitHub Hit . to pull up the code. Then make a new terminal by clicking the 3 lines in the top left
 
