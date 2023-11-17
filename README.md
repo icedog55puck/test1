@@ -75,4 +75,5 @@ Right now you are a user and can not do any deletion so that not in this demo. J
 
 npm init will  give a lines of code just press enter till you get (is this ok)
 
-Then press enter again then type node sever.js to run the website then when you are done ctrl c to end it commit for your last time and now you have a copy of our test website.
+Then press enter again then type node sever.js click on open butten when it pops up to see webpage.
+Ctrl c will end the code when typed in terminal
