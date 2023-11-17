@@ -39,11 +39,14 @@ Then you can view your appointment by clicking the view button after giving an i
 
 Right now you are a user and can not do any deletion so that not in this demo. Just click back arrow to go back
 
-## Step(4) to create the github if not useing the one we made or if an error pops up
 
-### 4. Now lets build the system first you would make a new git repository
 
-### 5. Make a ReadMe and copy over the this guide to help if needed 
+## Step( 4) is for creating a new github or import
+
+4.	Now lets build the system first you would make a new git repository 
+5.	Now you can do step 6 ,7 and 8 or you can just import the code if you have a zip file
+If you have a zip file unzip it to your desktop. Now In the new git you just  make go to quick setup and click upload from existing file then drag in the unzipped file. Now hit ( . ) and  go to an online code space then make a terminal. Then go to step 10
+
 
 ### 6. Then hit . to bring up the coding space
 
