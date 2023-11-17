@@ -60,12 +60,12 @@ Right now you are a user and can not do any deletion so that not in this demo. J
 
 ### 10. Now it time to run some installs. Do them in this order
 
-i)	cd test1-main
-ii)	npm i
-iii)	npm install express
-iv)	npm install body-parser
-v)	npm install sqlite3
-vi)	npm init
+##i)	cd test1-main
+##ii)	npm i
+##iii)	npm install express
+##iv)	npm install body-parser
+##v)	npm install sqlite3
+##vi)	npm init
 
 
 npm init will  give a lines of code just press enter till you get (is this ok)
